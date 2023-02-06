@@ -1,0 +1,27 @@
+.form {
+  text-align: center;
+}
+.error {
+  color: red;
+  margin-left: 3.8rem;
+}
+.btnAdd {
+  width: 30%;
+  height: 40px;
+  border: 1px solid #dcdce6;
+  border-radius: 8px;
+  background-color: #59a2ad;
+  color: #fff;
+  cursor: pointer;
+}
+.btnAdd:hover {
+  opacity: 0.9;
+}
+.textInput {
+  height: 40px;
+  color: #5c5c5c;
+  border: 1px solid #dcdce6;
+  border-radius: 8px;
+  padding: 0 24px;
+  margin-right: 10px;
+}
